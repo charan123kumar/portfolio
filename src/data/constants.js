@@ -151,7 +151,7 @@ export const education = [
     date: "March 2014 - March 2019",
     grade: "9.8GPA",
     desc: "I completed my class 10 education at Narayana Group of Schools,Visakhapatnam.",
-    degree: "ICSC(X), Science with Computer",
+    degree: "ssc, High School",
   },
 ];
 
