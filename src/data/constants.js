@@ -103,7 +103,7 @@ export const experiences = [
   {
     id: 1,
     img: "https://th.bing.com/th?id=OIP.DANbNZ1cuM33OqTxeC2dVQHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
-    role: "Fullstack Externship",
+    role: "Fullstack Internship",
     company: "Infosys SpringBoard",
     date: "March 2024 - June 2024",
     desc: "Built an EDU HUB full stack web app . I was one of  the top performers in the program.",
@@ -146,7 +146,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Narayana_Group_Logo.png",
     school: "Naraya Group of Schools, Visakhapatnam",
     date: "March 2014 - March 2019",
     grade: "9.8GPA",
